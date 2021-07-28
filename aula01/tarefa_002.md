@@ -7,7 +7,9 @@
 
 ## Enunciado
 
-REST consiste no conjunto de regras para criação de web services, visando permitir que web services utilizando REST tenham capacidade de operar entre si caso necessário. Foi criado em 2000 por Roy Fielding em sua tese de douturado. Facilita adecorre pelo fato que as interações entre serviços é feita por um conjunto prédefinido e padronizado de  operações. Tem foco em velocidade, confiabilidade e crescimento com facilidade e rapidez ao permitir reusabilidade e baixo acoplamento. 
+APIs são ferramentas que permitem a comunicação entre serviços webs através de um conjunto de ações definidas. Um exemplo seria APIs de empresas de pagamento de compras online em determiados sites.
+
+REST consiste no conjunto de regras para criação de API em web services, visando permitir que web services utilizando REST tenham capacidade de operar entre si caso necessário. Foi criado em 2000 por Roy Fielding em sua tese de douturado. Facilita adecorre pelo fato que as interações entre serviços é feita por um conjunto prédefinido e padronizado de  operações. Tem foco em velocidade, confiabilidade e crescimento com facilidade e rapidez ao permitir reusabilidade e baixo acoplamento. 
 
 REST tem idealiza que todas as comunicações entre sistemas feitas devem conter todas informações que seriam necessárias para a mesma, sem que necessite que algum dos serviços guarde informações anteriores. As informações em cada operação deve informar como devem ser processadas e diferentes de outros tipos de operações existentes. Durante a comunicação entre serviços REST um serviço apenas necessita saber como realizar uma operação e quais serão os padrões do retorno, não necessitando saber de outras peculiaridades da comunicação. Dentro de uma operação estarão contidos hiperlinks que permitem identificar quais são as outras possiveis ações a serem realizadas.
 

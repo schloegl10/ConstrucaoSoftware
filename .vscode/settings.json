@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "tarefa013",
         "tarefa009/questao6",
-        "tarefa013"
+        "tarefa016"
     ]
 }

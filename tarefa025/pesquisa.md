@@ -1,0 +1,3 @@
+## State
+Padrão de projeto state é um padrão de projeto usado quando objetos mudam  dependendo de seus estados.
+A ideia principal é que, em qualquer dado momento, há um número finito de estados que um programa possa estar. Dentro de qualquer estado único, o programa se comporta de forma diferente, e o programa pode ser trocado de um estado para outro instantaneamente. Contudo, dependendo do estado atual, o programa pode ou não trocar para outros estados. Essas regras de troca, chamadas transições, também são finitas e pré determinadas
